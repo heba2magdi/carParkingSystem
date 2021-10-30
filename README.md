@@ -2,7 +2,6 @@
 
 
 
-this is a test project for my coding
 this is a system for a vehicle parking organization
 to store and organize different data
 
